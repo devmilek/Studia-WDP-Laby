@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/bin/Debug/net7.0/pytanie-1
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/bin/Debug/net7.0/pytanie-1.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/bin/Debug/net7.0/pytanie-1.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/bin/Debug/net7.0/pytanie-1.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/bin/Debug/net7.0/pytanie-1.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/refint/pytanie-1.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/pytanie-1.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-1/obj/Debug/net7.0/ref/pytanie-1.dll

@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/bin/Debug/net7.0/pytanie-2-nowy-sposob
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/bin/Debug/net7.0/pytanie-2-nowy-sposob.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/bin/Debug/net7.0/pytanie-2-nowy-sposob.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/bin/Debug/net7.0/pytanie-2-nowy-sposob.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/bin/Debug/net7.0/pytanie-2-nowy-sposob.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/refint/pytanie-2-nowy-sposob.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/pytanie-2-nowy-sposob.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wypisz-liczby-z-wielokropkiem/pytanie-1/pytanie-2-nowy-sposob/obj/Debug/net7.0/ref/pytanie-2-nowy-sposob.dll
