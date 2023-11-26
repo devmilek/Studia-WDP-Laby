@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/bin/Debug/net6.0/z-uzyciem-program-test
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/bin/Debug/net6.0/z-uzyciem-program-test.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/bin/Debug/net6.0/z-uzyciem-program-test.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/bin/Debug/net6.0/z-uzyciem-program-test.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/bin/Debug/net6.0/z-uzyciem-program-test.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/refint/z-uzyciem-program-test.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/z-uzyciem-program-test.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/obj/Debug/net6.0/ref/z-uzyciem-program-test.dll

@@ -1,0 +1,4 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/zglaszanie-i-przechwytywanie-wyjatkow/obj/Debug/net7.0/zglaszanie-i-przechwytywanie-wyjatkow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/zglaszanie-i-przechwytywanie-wyjatkow/obj/Debug/net7.0/zglaszanie-i-przechwytywanie-wyjatkow.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/zglaszanie-i-przechwytywanie-wyjatkow/obj/Debug/net7.0/zglaszanie-i-przechwytywanie-wyjatkow.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/zglaszanie-i-przechwytywanie-wyjatkow/obj/Debug/net7.0/zglaszanie-i-przechwytywanie-wyjatkow.csproj.CoreCompileInputs.cache

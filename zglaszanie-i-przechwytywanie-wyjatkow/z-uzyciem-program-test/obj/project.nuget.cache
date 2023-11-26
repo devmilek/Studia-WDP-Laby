@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqPBt+bgqLU8TPcfv8EHMjwJagvY7tvGW5zhG+HXTsrJBbYPs79R51yStQJLEeG/LIb8ZD5wfaaepCowB6YY5g==",
+  "success": true,
+  "projectFilePath": "/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/z-uzyciem-program-test/z-uzyciem-program-test.csproj",
+  "expectedPackageFiles": [
+    "/Users/milek/.nuget/packages/microsoft.netcore.app.ref/6.0.24/microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "/Users/milek/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "/Users/milek/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.24/microsoft.netcore.app.host.osx-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

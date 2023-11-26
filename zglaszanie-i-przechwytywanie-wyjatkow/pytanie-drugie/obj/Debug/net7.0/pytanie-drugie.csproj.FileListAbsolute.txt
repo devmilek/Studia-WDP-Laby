@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/bin/Debug/net7.0/pytanie-drugie
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/bin/Debug/net7.0/pytanie-drugie.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/bin/Debug/net7.0/pytanie-drugie.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/bin/Debug/net7.0/pytanie-drugie.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/bin/Debug/net7.0/pytanie-drugie.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/refint/pytanie-drugie.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/pytanie-drugie.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/zglaszanie-i-przechwytywanie-wyjatkow/pytanie-drugie/obj/Debug/net7.0/ref/pytanie-drugie.dll
