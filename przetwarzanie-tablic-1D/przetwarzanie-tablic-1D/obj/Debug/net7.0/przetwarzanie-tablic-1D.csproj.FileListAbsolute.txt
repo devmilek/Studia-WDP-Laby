@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/bin/Debug/net7.0/przetwarzanie-tablic-1D
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/bin/Debug/net7.0/przetwarzanie-tablic-1D.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/bin/Debug/net7.0/przetwarzanie-tablic-1D.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/bin/Debug/net7.0/przetwarzanie-tablic-1D.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/bin/Debug/net7.0/przetwarzanie-tablic-1D.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/refint/przetwarzanie-tablic-1D.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/przetwarzanie-tablic-1D.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/przetwarzanie-tablic-1D/obj/Debug/net7.0/ref/przetwarzanie-tablic-1D.dll
