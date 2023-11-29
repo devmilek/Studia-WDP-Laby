@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "csharp-switch-case-3-challenge/1.0.0": {
+        "runtime": {
+          "csharp-switch-case-3-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-switch-case-3-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

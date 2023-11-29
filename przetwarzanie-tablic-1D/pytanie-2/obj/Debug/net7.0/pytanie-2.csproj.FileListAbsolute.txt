@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/bin/Debug/net7.0/pytanie-2
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/bin/Debug/net7.0/pytanie-2.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/bin/Debug/net7.0/pytanie-2.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/bin/Debug/net7.0/pytanie-2.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/bin/Debug/net7.0/pytanie-2.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/refint/pytanie-2.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/pytanie-2.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tablic-1D/pytanie-2/obj/Debug/net7.0/ref/pytanie-2.dll

@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/bin/Debug/net7.0/4-exercise-challenge-variable-scope
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/bin/Debug/net7.0/4-exercise-challenge-variable-scope.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/bin/Debug/net7.0/4-exercise-challenge-variable-scope.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/bin/Debug/net7.0/4-exercise-challenge-variable-scope.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/bin/Debug/net7.0/4-exercise-challenge-variable-scope.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/refint/4-exercise-challenge-variable-scope.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/4-exercise-challenge-variable-scope.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/4-exercise-challenge-variable-scope/obj/Debug/net7.0/ref/4-exercise-challenge-variable-scope.dll

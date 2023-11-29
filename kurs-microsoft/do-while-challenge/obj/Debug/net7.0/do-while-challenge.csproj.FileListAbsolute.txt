@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/bin/Debug/net7.0/do-while-challenge
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/bin/Debug/net7.0/do-while-challenge.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/bin/Debug/net7.0/do-while-challenge.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/bin/Debug/net7.0/do-while-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/bin/Debug/net7.0/do-while-challenge.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/refint/do-while-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/do-while-challenge.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/do-while-challenge/obj/Debug/net7.0/ref/do-while-challenge.dll

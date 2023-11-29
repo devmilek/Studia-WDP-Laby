@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "kurs-microsoft/1.0.0": {
+        "runtime": {
+          "kurs-microsoft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kurs-microsoft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/bin/Debug/net7.0/2-exercise-switch-case
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/bin/Debug/net7.0/2-exercise-switch-case.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/bin/Debug/net7.0/2-exercise-switch-case.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/bin/Debug/net7.0/2-exercise-switch-case.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/bin/Debug/net7.0/2-exercise-switch-case.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/refint/2-exercise-switch-case.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/2-exercise-switch-case.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/2-exercise-switch-case/obj/Debug/net7.0/ref/2-exercise-switch-case.dll

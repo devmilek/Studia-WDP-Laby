@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/bin/Debug/net7.0/3-challenge-fuzzbad
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/bin/Debug/net7.0/3-challenge-fuzzbad.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/bin/Debug/net7.0/3-challenge-fuzzbad.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/bin/Debug/net7.0/3-challenge-fuzzbad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/bin/Debug/net7.0/3-challenge-fuzzbad.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/refint/3-challenge-fuzzbad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/3-challenge-fuzzbad.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/3-challenge-fuzzbad/obj/Debug/net7.0/ref/3-challenge-fuzzbad.dll

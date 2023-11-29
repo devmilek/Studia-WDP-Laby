@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/bin/Debug/net7.0/kurs-microsoft
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/bin/Debug/net7.0/kurs-microsoft.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/bin/Debug/net7.0/kurs-microsoft.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/bin/Debug/net7.0/kurs-microsoft.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/bin/Debug/net7.0/kurs-microsoft.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/refint/kurs-microsoft.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/kurs-microsoft.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/kurs-microsoft/obj/Debug/net7.0/ref/kurs-microsoft.dll

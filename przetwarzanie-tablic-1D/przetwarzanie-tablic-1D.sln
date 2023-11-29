@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "przetwarzanie-tablic-1D", "przetwarzanie-tablic-1D\przetwarzanie-tablic-1D.csproj", "{1DA9F416-C282-4937-8160-BAB5C3586408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pytanie-2", "pytanie-2\pytanie-2.csproj", "{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1DA9F416-C282-4937-8160-BAB5C3586408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DA9F416-C282-4937-8160-BAB5C3586408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DA9F416-C282-4937-8160-BAB5C3586408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

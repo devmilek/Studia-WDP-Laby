@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/bin/Debug/net7.0/ContosoPets
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/bin/Debug/net7.0/ContosoPets.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/bin/Debug/net7.0/ContosoPets.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/bin/Debug/net7.0/ContosoPets.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/bin/Debug/net7.0/ContosoPets.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/refint/ContosoPets.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/ContosoPets/obj/Debug/net7.0/ref/ContosoPets.dll

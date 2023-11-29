@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/bin/Debug/net7.0/csharp-switch-case-3-challenge
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/bin/Debug/net7.0/csharp-switch-case-3-challenge.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/bin/Debug/net7.0/csharp-switch-case-3-challenge.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/bin/Debug/net7.0/csharp-switch-case-3-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/bin/Debug/net7.0/csharp-switch-case-3-challenge.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/refint/csharp-switch-case-3-challenge.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/csharp-switch-case-3-challenge.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-switch-case-3-challenge/obj/Debug/net7.0/ref/csharp-switch-case-3-challenge.dll
