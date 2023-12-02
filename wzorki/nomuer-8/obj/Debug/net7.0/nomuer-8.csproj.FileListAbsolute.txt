@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/bin/Debug/net7.0/nomuer-8
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/bin/Debug/net7.0/nomuer-8.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/bin/Debug/net7.0/nomuer-8.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/bin/Debug/net7.0/nomuer-8.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/bin/Debug/net7.0/nomuer-8.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/refint/nomuer-8.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/nomuer-8.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/wzorki/nomuer-8/obj/Debug/net7.0/ref/nomuer-8.dll
