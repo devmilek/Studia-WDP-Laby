@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "przetwarzanie-tablic-1D", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pytanie-2", "pytanie-2\pytanie-2.csproj", "{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pytanie-3", "pytanie-3\pytanie-3.csproj", "{32E8DC45-61E6-420F-81CB-F4AE33FA1C64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CD29732-DDF5-4CB7-A737-0E1B691EC2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E8DC45-61E6-420F-81CB-F4AE33FA1C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E8DC45-61E6-420F-81CB-F4AE33FA1C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E8DC45-61E6-420F-81CB-F4AE33FA1C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E8DC45-61E6-420F-81CB-F4AE33FA1C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
