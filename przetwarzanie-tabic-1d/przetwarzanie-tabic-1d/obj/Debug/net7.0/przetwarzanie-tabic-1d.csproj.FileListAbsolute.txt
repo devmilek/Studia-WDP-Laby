@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/bin/Debug/net7.0/przetwarzanie-tabic-1d
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/bin/Debug/net7.0/przetwarzanie-tabic-1d.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/bin/Debug/net7.0/przetwarzanie-tabic-1d.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/bin/Debug/net7.0/przetwarzanie-tabic-1d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/bin/Debug/net7.0/przetwarzanie-tabic-1d.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/refint/przetwarzanie-tabic-1d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/przetwarzanie-tabic-1d.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/przetwarzanie-tabic-1d/przetwarzanie-tabic-1d/obj/Debug/net7.0/ref/przetwarzanie-tabic-1d.dll

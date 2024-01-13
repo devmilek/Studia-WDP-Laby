@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/bin/Debug/net7.0/rabat-na-loty
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/bin/Debug/net7.0/rabat-na-loty.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/bin/Debug/net7.0/rabat-na-loty.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/bin/Debug/net7.0/rabat-na-loty.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/bin/Debug/net7.0/rabat-na-loty.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/refint/rabat-na-loty.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/rabat-na-loty.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty/obj/Debug/net7.0/ref/rabat-na-loty.dll

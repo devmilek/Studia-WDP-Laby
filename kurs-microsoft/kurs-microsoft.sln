@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-challenge", "do-wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoPets", "ContosoPets\ContosoPets.csproj", "{AAB7C9D4-F50F-4731-9DE9-7ACFABC53943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-choose-data-type-3-exercise-integral-types", "csharp-choose-data-type-3-exercise-integral-types\csharp-choose-data-type-3-exercise-integral-types.csproj", "{B098C838-E9CC-4C07-BEB4-E3CE6AE9A961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{AAB7C9D4-F50F-4731-9DE9-7ACFABC53943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAB7C9D4-F50F-4731-9DE9-7ACFABC53943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAB7C9D4-F50F-4731-9DE9-7ACFABC53943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B098C838-E9CC-4C07-BEB4-E3CE6AE9A961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B098C838-E9CC-4C07-BEB4-E3CE6AE9A961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B098C838-E9CC-4C07-BEB4-E3CE6AE9A961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B098C838-E9CC-4C07-BEB4-E3CE6AE9A961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/bin/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/bin/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/bin/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/bin/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/bin/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/refint/csharp-choose-data-type-3-exercise-integral-types.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/csharp-choose-data-type-3-exercise-integral-types.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/kurs-microsoft/csharp-choose-data-type-3-exercise-integral-types/obj/Debug/net7.0/ref/csharp-choose-data-type-3-exercise-integral-types.dll

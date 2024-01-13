@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/bin/Debug/net7.0/tablice-postrzepione
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/bin/Debug/net7.0/tablice-postrzepione.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/bin/Debug/net7.0/tablice-postrzepione.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/bin/Debug/net7.0/tablice-postrzepione.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/bin/Debug/net7.0/tablice-postrzepione.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/refint/tablice-postrzepione.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/tablice-postrzepione.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-postrzepione/tablice-postrzepione/obj/Debug/net7.0/ref/tablice-postrzepione.dll

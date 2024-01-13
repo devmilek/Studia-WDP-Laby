@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "przetwarzanie-tabic-1d/1.0.0": {
+        "runtime": {
+          "przetwarzanie-tabic-1d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "przetwarzanie-tabic-1d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

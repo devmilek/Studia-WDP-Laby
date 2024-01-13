@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/bin/Debug/net7.0/rabat-na-loty-sasza
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/bin/Debug/net7.0/rabat-na-loty-sasza.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/bin/Debug/net7.0/rabat-na-loty-sasza.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/bin/Debug/net7.0/rabat-na-loty-sasza.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/bin/Debug/net7.0/rabat-na-loty-sasza.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/refint/rabat-na-loty-sasza.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/rabat-na-loty-sasza.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/rabat-na-loty/rabat-na-loty-sasza/obj/Debug/net7.0/ref/rabat-na-loty-sasza.dll

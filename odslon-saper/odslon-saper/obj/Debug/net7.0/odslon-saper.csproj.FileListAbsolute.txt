@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/bin/Debug/net7.0/odslon-saper
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/bin/Debug/net7.0/odslon-saper.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/bin/Debug/net7.0/odslon-saper.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/bin/Debug/net7.0/odslon-saper.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/bin/Debug/net7.0/odslon-saper.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/refint/odslon-saper.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/odslon-saper.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/odslon-saper/odslon-saper/obj/Debug/net7.0/ref/odslon-saper.dll
