@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/bin/Debug/net7.0/sudoku-zad
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/bin/Debug/net7.0/sudoku-zad.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/bin/Debug/net7.0/sudoku-zad.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/bin/Debug/net7.0/sudoku-zad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/bin/Debug/net7.0/sudoku-zad.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/refint/sudoku-zad.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/sudoku-zad.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/sudoku-zad/sudoku-zad/obj/Debug/net7.0/ref/sudoku-zad.dll

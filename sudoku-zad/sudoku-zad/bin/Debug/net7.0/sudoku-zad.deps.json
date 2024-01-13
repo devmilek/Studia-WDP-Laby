@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "sudoku-zad/1.0.0": {
+        "runtime": {
+          "sudoku-zad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sudoku-zad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

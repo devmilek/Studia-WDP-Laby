@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/bin/Debug/net7.0/tablice-2d
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/bin/Debug/net7.0/tablice-2d.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/bin/Debug/net7.0/tablice-2d.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/bin/Debug/net7.0/tablice-2d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/bin/Debug/net7.0/tablice-2d.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/refint/tablice-2d.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/tablice-2d.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/tablice-2d/tablice-2d/obj/Debug/net7.0/ref/tablice-2d.dll
