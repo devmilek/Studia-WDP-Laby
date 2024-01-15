@@ -1,0 +1,14 @@
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.AssemblyInfoInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.AssemblyInfo.cs
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.csproj.CoreCompileInputs.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/bin/Debug/net7.0/klasa-person-child
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/bin/Debug/net7.0/klasa-person-child.deps.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/bin/Debug/net7.0/klasa-person-child.runtimeconfig.json
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/bin/Debug/net7.0/klasa-person-child.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/bin/Debug/net7.0/klasa-person-child.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/refint/klasa-person-child.dll
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.pdb
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/klasa-person-child.genruntimeconfig.cache
+/Users/milek/Desktop/Studia/wprowadzenie_do_programowania_laby/klasa-person-child/klasa-person-child/obj/Debug/net7.0/ref/klasa-person-child.dll
